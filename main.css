@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tangerine:bold,bolditalic|Inconsolata:italic|Droid+Sans');
+
+
+/* CSS comments frameworks bootstrap, sass */
+
+* div {
+  box-sizing: border-box;
+  width: 60%;
+  border: 1px solid rgb(0, 7, 0);
+  float: center;
+  border-radius: 10%;
+}
+
+
+body {
+    background-color: rgb(220, 223, 205);
+}
+
+h1, h2 {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+p {
+    padding: 10px;
+    margin: 25px;
+    font-family: 'Dosis', sans-serif;
+}
+
+
+/* p {
+    padding: 10px 100px 10px;
+    margin: 25px 90px 25px;
+} */
+
+.large {
+    font-size: 60px;
+}
+
+.green {
+    background-color: rgb(135, 192, 1);
+}
+.blue {
+    background-color: rgb(201, 248, 170);
+}
+.yellow {
+    background-color: rgb(196, 252, 151);
+}
+.noul {
+    background-color: rgb(99, 179, 245);
+}
+
+.center {
+    text-align: center;
+}
+
+/* .largeCenter {
+    font-size: 50px;
+    text-align: center;
+} */
+.size {
+
+}
